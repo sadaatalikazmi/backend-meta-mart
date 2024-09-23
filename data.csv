@@ -1,0 +1,13 @@
+name,description,quantity,price,type,rack,shelf,slot,size,model,imageUrl
+sadasda,loremdescription,11,15,Grocery,displayRack1,S1,2,Small,model1.glb,pic1.png
+asdasda,loremdescription,32,17,Dairy,displayRack1,S1,3,Medium,model2.glb,pic2.png
+sccfgg,loremdescription,33,20,Snacks,displayRack1,S2,2,Medium,model3.glb,pic3.png
+4tggggbf,loremdescription,33,12,Softdrink,displayRack2,S2,2,Medium,model4.glb,pic4.png
+asdasda,loremdescription,20,43,Softdrink,displayRack2,S2,4,Large,model5.glb,pic5.png
+hhgfgfdfg,loremdescription,33,54,Dairy,displayRack2,S2,2,Small,model6.glb,pic6.png
+g45terg,loremdescription,20,64,Snacks,displayRack4,S2,4,Small,model7.glb,pic7.png
+dffgdfgr,loremdescription,20,34,Grocery,displayRack2,S1,4,Small,model8.glb,pic8.png
+rtgqerrtfgb,loremdescription,44,32,Dairy,displayRack3,S1,1,Medium,model9.glb,pic9.png
+grerqtg,loremdescription,76,76,Snacks,displayRack2,S4,2,Small,model10.glb,pic10.png
+sfgsdffcr,loremdescription,206,23,Softdrink,,,,Medium,model11.glb,pic11.png
+nfgngffdf,loremdescription,88,15,Snacks,displayRack4,S3,2,Small,model12.glb,pic12.png
